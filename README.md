@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Grocery Program
 
 Summarize the project and what problem it was solving.
 
